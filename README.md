@@ -1,4 +1,4 @@
-# Practica7-DisenoWeb
+# Practica7-PrograWeb
 
 1. Cree una aplicación Web en Vue.js que incluya un arreglo con la información de los profesores, presentada en capítulos anteriores. La aplicación debe mostrar dicha información mediante una tabla HTML y algún estilo CSS.
 
